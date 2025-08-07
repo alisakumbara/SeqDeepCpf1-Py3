@@ -1,3 +1,7 @@
+### original source from https://github.com/MyungjaeSong/Paired-Library
+### code updated by Alisa Kumbara to be compatible with Python 3
+
+
 import sys
 import torch
 import h5py
